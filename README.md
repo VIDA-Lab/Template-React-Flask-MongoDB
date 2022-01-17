@@ -17,7 +17,7 @@ This is a template with `React` + `Flask` + `MongoDB` for instant build of a VA 
 2. 根据`requirements`安装依赖包: `pip install -r requirements.txt`
 3. 启动项目: `cd server | python app.py`
 
-**测试**：
+**IF:**
 
 > 如果 `React` 控制台可以 `console.log` 出 `hello`, 说明前后台可以正常通信
 
