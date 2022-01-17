@@ -29,4 +29,5 @@ This is a template with `React` + `Flask` + `MongoDB` for instant build of a VA 
 **MongoDB**:
 
 1. 创建db: 通过 `Robo 3T`直接创建
+2. 测试链接: 通过访问`http://localhost:5000/add_one`查看是否有数据插入
 
